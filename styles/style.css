@@ -47,7 +47,7 @@ ol {
 }
 
 .content {
-  position: absolute;
+  position: relative;
   display: inline-flex;
   justify-content: flex-end;
   margin: 133px 30px;
@@ -124,7 +124,7 @@ ol {
 }
 
 .preloader {
-  position: absolute;
+  position: relative;
 }
 
 .search-form__fieldset {
