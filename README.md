@@ -1,1 +1,1 @@
-https://github.com/Unfnow/posmotri_v_okno-main.git
+https://github.com/Unfnow/posmotri_v_okno.git
